@@ -3,6 +3,6 @@ librosa
 matplotlib
 omegaconf
 unidecode
-torch==1.4.0
+torch==1.7.1
 pytorch-lightning==0.7.1
 pyyaml
